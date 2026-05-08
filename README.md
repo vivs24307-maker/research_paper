@@ -50,5 +50,5 @@ The model relies on 9 independent parameters gathered from two main streams:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/yourusername/FloodOracle.git](https://github.com/yourusername/FloodOracle.git)
-   cd FloodOracle
+   git clone https://github.com/vivs24307-maker/research_paper.git
+   cd research_paper
