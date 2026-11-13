@@ -1,4 +1,3 @@
-# research_paper
 # 🌊 FloodOracle: Hoovinahole Catchment Flood Prediction & Spatial Risk System
 
 An end-to-end Machine Learning framework for forecasting river water levels and mapping spatial flood risks in the Hoovinahole region. This system integrates decades of ground truth observational data with satellite-derived meteorology to build a highly accurate, deployable disaster management dashboard.
